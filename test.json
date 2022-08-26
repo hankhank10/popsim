@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "Voting by age",
+            "options": [
+                {
+                    "name": "16+",
+                    "opinions": [
+                        {
+                            "category": "youth",
+                            "opinion": 100
+                        },
+                        {
+                            "category": "adult",
+                            "opinion": 0
+                        },
+                        {
+                            "category": "senior",
+                            "opinion": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+rm -r Migrations
+rm project/*.sqlite
+flask db init
+flask db migrate
+flask db upgrade
